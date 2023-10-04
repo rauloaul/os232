@@ -7,3 +7,4 @@ permalink: LINKS/
 - [Regex Tutorial](https://youtu.be/bgBWp9EIlMM) --- Youtube videos about regex
 - [Linux Command](https://docs.rockylinux.org/books/admin_guide/03-commands/) --- Useful for Linux Operating System.
 - [File Allocations Tutorial]((https://www.geeksforgeeks.org/file-allocation-methods/) --- Explaination of File Allocation Method. Here's a quick explanation on geeks for geeks with pros and cons
+- [Compile and Run C Program With GCC](https://www.youtube.com/watch?v=oLjN6jAg-sY) --- Running and Compiling C in Linux
