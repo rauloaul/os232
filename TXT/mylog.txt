@@ -24,5 +24,10 @@ ZCZC W04 30 L10 Assignment #04
 ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 30 L03 Github related
 ZCZC W05 60 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W05 60 L10 Assignment #03
+ZCZC W05 60 L10 Assignment #05
 ZCZC W05 10 L05 QUIZ
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 30 L03 Github related
+ZCZC W06 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 60 L10 Assignment #06
+ZCZC W06 15 L05 QUIZ
