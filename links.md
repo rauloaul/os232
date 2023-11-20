@@ -11,3 +11,4 @@ permalink: LINKS/
 - [Virtual Memory](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) --- Explaining about virtual memory
 - [Process Management](https://www.youtube.com/watch?v=OrM7nZcxXZU) --- Short video about process management and differences between processes and threads.
 - [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux) --- Explanation of process synchronization on Linux
+- [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/?ref=lbp) --- Explanation about CPU Scheduling in OS
