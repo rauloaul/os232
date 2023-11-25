@@ -12,3 +12,4 @@ permalink: LINKS/
 - [Process Management](https://www.youtube.com/watch?v=OrM7nZcxXZU) --- Short video about process management and differences between processes and threads.
 - [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux) --- Explanation of process synchronization on Linux
 - [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/?ref=lbp) --- Explanation about CPU Scheduling in OS
+- [What is GRUB?](https://www.codecademy.com/resources/blog/grub-linux/) --- A short read about GRUB (GRand Unified Bootloader)
